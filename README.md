@@ -1,8 +1,9 @@
-Hello
+Hello,
 =========================
 
-* 🚀  I'm currently working on [Nanolobby](http://https://github.com/kaan1957/kaan1957)
-* 🧠  I'm learning Data structures
+* 🖋️  I'm a software engineering student
+* 🏗️  Currently working on [Nanolobby](http://https://github.com/kaan1957/kaan1957)
+* 📖  Learning Data structures
 * 🤝  I'm open to collaborating on interesting projects and modificationss
 
 ### Skills
