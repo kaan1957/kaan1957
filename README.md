@@ -3,7 +3,7 @@ Hello
 
 * 🖋️  I'm a software engineering student
 * 🏗️  Currently working on [Nanolobby](https://github.com/kaan1957/Nanolobby)
-* 📖  Learning Data structures
+* 📖  Learning Data structures and  C++
 * 🤝  I'm open to collaborating on interesting projects and modifications
 
 ### Skills
