@@ -1,5 +1,5 @@
 <h4>Hello</h4>
-=========================
+<hr> <br>
 <p style="font-size="10px">
 * 🖋️  I'm a software engineering student <br> 
 * 🏗️  Currently working on [Nanolobby](http://https://github.com/kaan1957/kaan1957)<br> 
