@@ -1,4 +1,4 @@
-Hi 👋 My name is kaan1957
+Hello
 =========================
 
 * 🚀  I'm currently working on [Nanolobby](http://https://github.com/kaan1957/kaan1957)
