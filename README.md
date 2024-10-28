@@ -39,11 +39,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
 
 ### 🌐 Socials
 
 <p align="left">
-<a href="https://discord.com/username/kaan.3455"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+<a href="https://discordapp.com/users/603608845142720533"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>  
 <a href="https://github.com/kaan1957"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
