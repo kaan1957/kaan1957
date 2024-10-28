@@ -5,7 +5,6 @@
 * 📖  Learning Data structures and  C++
 * 🤝  I'm open to collaborating on interesting projects and modifications
 
----
 
 ### 🛠️ Skills
 
