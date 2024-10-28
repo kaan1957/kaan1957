@@ -39,7 +39,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<hr style="height:1px; width:%50">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### 🌐 Socials
 
